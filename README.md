@@ -1,6 +1,6 @@
 # Conv2multiBin
 ## Summary
-This program converts img(clonecd) or bin(isobuster) to multiple bin(redump.org).  
+This program converts img(clonecd) or bin(isobuster) to multiple bin(redump.info).  
 It works on Windows PC (WinXP or higher).
 
 ## Usage
